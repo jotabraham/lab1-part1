@@ -1,0 +1,15 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+}
+
+.gray {
+    color: #69696a;
+}
